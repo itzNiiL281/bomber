@@ -8,5 +8,13 @@ I didn't copy it, I just modified it
 <a href="https://github.com/mao2116"><img width="40px" title="Github" src="https://github.com/fh-rabbi/Hack-Box/blob/main/images/git.png"></a>
 </p>
 
+# Usage Command:
+```
+$ pkg install git -y
+$ git clone https://github.com/fh-rabbi/bomber
+$ cd bomber
+$ bash setup.sh
+$ bomb
+```
 <h2>Warning:</h2>
 - Don't use this illegal purpose.It's just for educational purpose 
