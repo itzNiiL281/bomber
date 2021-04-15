@@ -1,5 +1,7 @@
 - This is an sms & mail bombing tool(mod)...
-
+```
+I didn't copy it, I just modified it 
+```
 
 <h3>Original Author:</h3>
 <p align="center">
